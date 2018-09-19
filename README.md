@@ -9,7 +9,7 @@ Members
 
 Overview
 -------------
-Simple HTTP server built using C as part of a class project. Also has thor.py which calculates how much http response the server can handle. Server is easily made by running Makefile.
+Simple HTTP server built using C as a part of a class project. Also has thor.py which calculates how much http response the server can handle. Server is easily made by running Makefile.
 
 
 Demonstration
